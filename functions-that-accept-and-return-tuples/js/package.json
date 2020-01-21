@@ -1,0 +1,16 @@
+{
+    "name": "js",
+    "version": "1.0.0",
+    "description": "JS FFI client",
+    "main": "client.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "assert": "^2.0.0",
+        "ffi": "^2.3.0",
+        "ref-struct-napi": "^1.1.0"
+    }
+}
